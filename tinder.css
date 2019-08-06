@@ -1,0 +1,101 @@
+body {
+	background-image: url("tinder.jpg");
+	background-size: cover;
+	background-repeat: no-repeat; 
+}
+#title {
+
+	color: #80002a;
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+
+
+}
+#logAndReg {
+text-align: center;
+
+
+}
+
+
+#logIn, #reg {
+	padding: 8% 0 0 8%;
+}
+
+.indexInput {
+	text-align: center;
+	width: 300px;
+	height: 20px;
+	font-size: 12px;
+	margin: 2px;
+}
+
+.indexBtn {
+	
+	width: 150px;
+	text-align: center;
+	height: 22px;
+	margin: 2px 0px 2px 2px;
+	outline: none;
+	color: #ff9999;
+	border-radius: 3%;
+	border: 2px solid #aaa;
+	background: #80002a;
+	font-weight: bold;
+	
+}
+
+.indexBtn:hover {
+	border: 2px solid rgba(85, 172, 238, 0.8);
+	background: rgba(85, 172, 238, 0.6);
+
+}
+#errorMsg {
+	text-align: center;
+	color: red;
+	font-weight: bold;
+}
+#like{
+	color: green;
+}
+#nope{
+	color:red;
+}
+.indexBio {
+	width: 300px;
+	height: 100px;
+	text-align: center; 
+
+}
+.indexSignUp {
+	width:500px;
+	height:20px;
+	margin: 2px 0px 2px 2px;
+	outline: none;
+	color: #ff9999;
+	border-radius: 3%;
+	border: 2px solid #aaa;
+	background: #80002a;
+	font-weight: bold;
+
+}
+.indexSignUp:hover {
+	border: 2px solid rgba(85, 172, 238, 0.8);
+	background: rgba(85, 172, 238, 0.6);
+}
+h2 {
+	color: #80002a; 
+	text-align: center;
+}
+#fileToUpload {
+	color: #ff9999;
+	background: #80002a;
+
+
+}
+h3 {
+	text-align: center;
+	color: #80002a;
+	font-size: 20px;
+}
